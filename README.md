@@ -21,12 +21,12 @@ Have installed the package manager "Yarn" or "Npm"
       ```cd ui-clone-linkedin```
 
   ##### Passo 3
-    ###### Com yarn, rode:
+    ##### Com yarn, rode:
       ```yarn```
     - Em seguida
       ```yarn start```
 
-    ###### Com NPM, rode:
+    ##### Com NPM, rode:
       ```npm install```
     - Em seguida
       ```npm run start```
