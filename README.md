@@ -20,14 +20,18 @@ Have installed the package manager "Yarn" or "Npm"
   - Acesse o diretório do projeto:
       ```cd ui-clone-linkedin```
 
-  ##### Passo 3
+  ##### Passo 3 Com yarn, rode:
 
-    ##### Com yarn, rode:
-      ```yarn```
-    - Em seguida
-      ```yarn start```
+      $ yarn
 
-    ##### Com NPM, rode:
-      ```npm install```
     - Em seguida
-      ```npm run start```
+
+      $ yarn start
+
+  ##### Com NPM, rode:
+
+    $ npm install
+
+    - Em seguida
+
+    $ npm run start
