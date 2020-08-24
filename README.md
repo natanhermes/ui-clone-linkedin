@@ -1,5 +1,5 @@
 # UI Clone Linkedin
- Clone LinkedIn homepage in style skeleton screen
+ Clone da página inicial do LinkedIn com foco no efeito Shimmer
 
 ## Tecnologias utilizadas
 
