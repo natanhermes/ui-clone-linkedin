@@ -14,11 +14,11 @@ Have installed the package manager "Yarn" or "Npm"
 ### Passo 1
 
   #### Clone este repositório:
-  git clone https://github.com/natanhermes/ui-clone-linkedin
+    git clone https://github.com/natanhermes/ui-clone-linkedin
 
 ### Passo 2
   #### Acesse o diretório do projeto:
-      ```cd ui-clone-linkedin```
+    cd ui-clone-linkedin
 
 ### Passo 3 Com yarn, rode:
 
