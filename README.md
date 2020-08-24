@@ -7,9 +7,9 @@
   - Typescript
   - Styled Components
 
-## How to use this project
+## Como usar este projeto
 
-Have installed the package manager "Yarn" or "Npm"
+Tenha instalado o geranciador de pacotes "yarn" ou "npm" e siga este passo a passo
 
 ### Passo 1
 
